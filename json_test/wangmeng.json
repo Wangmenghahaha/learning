@@ -1,0 +1,11 @@
+{
+  "name":"wangmeng",
+  "age":18,
+  "phone":"13800000000",
+  "address":"beijing chaoyang",
+  "list":[
+    {"subject":"linux", "score": 90},
+    {"subject":"mcu", "score": 99},
+    {"subject":"freertos", "score": 98}
+  ]
+}

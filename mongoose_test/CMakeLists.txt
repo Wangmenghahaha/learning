@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(mongoose_test)
+add_executable(mongoose_test)
+target_sources(mongoose_test PRIVATE main.c mongoose/mongoose.c)
+target_include_directories(mongoose_test PRIVATE mongoose)
